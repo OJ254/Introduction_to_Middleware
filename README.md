@@ -14,7 +14,7 @@ This is a simple Express.js web application that generates a band name based on 
    ```
 ### **2. Navigate to the project directory:**
    ```sh
-   cd band-name-generator
+   cd Introduction_to_Middleware
    ```
 ### **3. Install dependencies:**
    ```sh
